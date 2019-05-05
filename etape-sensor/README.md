@@ -1,2 +1,4 @@
 # eTape Sensor
-These sensors are available from many vendors. They are manufactured at various links by [Milone Technologies, Inc](https://www.milonetech.com "Milone's Homepage")
+The eTape® is a solid-state sensor with a resistive output that varies with the level of fluid (liquid or powder).  It does away with clunky mechanical floats and easily interfaces with electronic control systems.  The eTape® sensor envelope is compressed by the hydrostatic pressure of the fluid in which it is immersed.  This results in a change in resistance that corresponds to the distance from the top of the sensor to the surface of the fluid.  The sensor's resistive ouput is inversely proportional to the height of the liquid.  Therefore, the lower the liquid level, the higher the output resistance.  Conversely, the higher the liquid level, the lower the output resistance.
+
+[Available at Milone Technologies, Inc](https://milonetech.com/p/about-etape "About Milone's eTapes")
